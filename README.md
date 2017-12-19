@@ -3,7 +3,7 @@ Libraries you need to install on Python:
 - SpeechRecognition (pip install speechrecognition)
 - Pocketsphinx (pip install pocketsphinx)
 
-After you have installed the following libraries you need to clear the text in this file of the python directory: Python\Python36\Lib\site-packages\speech_recognition\pocketsphinx-data\en-US\#pronounciation-dictionary.dict
+After you have installed the following libraries you need to clear the text in this file of the python directory: Python\Python36\Lib\site-packages\speech_recognition\pocketsphinx-data\en-US\pronounciation-dictionary.dict
 
 replace all the text with this (remove quotations):
 "black B L AE K
